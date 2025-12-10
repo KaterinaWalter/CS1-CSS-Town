@@ -1,0 +1,24 @@
+body {
+    background: url(tileground.jpg);
+    background-size: 70%;
+    padding: 0;
+    margin: 0;
+}
+#sky {
+    background: linear-gradient(DeepSkyBlue,LightSkyBlue,AliceBlue);
+    height: 60%;
+    width: 100%;
+}
+
+
+
+
+
+
+
+#sun {
+    font-size: 60px;
+    position: absolute;
+    top: 15px;
+    left: 100px;
+}
