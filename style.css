@@ -10,15 +10,45 @@ body {
     width: 100%;
 }
 
-
-
-
-
-
-
 #sun {
     font-size: 60px;
     position: absolute;
     top: 15px;
     left: 100px;
+}
+
+#flowers {
+    width: 80px;
+    position: absolute;
+    top: 200px;
+    left: 105px;
+    z-index: 15; /* bring to front */
+}
+
+
+#pergola {
+    width: 140px;
+    position: absolute;
+    top: 115px;
+    left: 150px;
+}
+
+
+#water {
+    width: 100%;
+    position: absolute;
+    bottom: -10%;
+}
+
+#cat-1 {
+    font-size: 35px;
+    position: absolute;
+    left: 40px;
+    top: 181px;
+}
+#cat-2 {
+    font-size: 35px;
+    position: absolute;
+    left: 30px;
+    top: 195px;
 }
